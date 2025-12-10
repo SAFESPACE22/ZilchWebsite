@@ -2,10 +2,10 @@ import React from 'react';
 import './Gallery.css';
 
 const releases = [
-    { id: 1, title: 'NEON DREAMS', year: '2025', color: 'linear-gradient(45deg, #ff00cc, #333399)' },
-    { id: 2, title: 'VOID', year: '2024', color: 'linear-gradient(45deg, #000000, #434343)' },
-    { id: 3, title: 'CYBER FUNK', year: '2024', color: 'linear-gradient(45deg, #00dbde, #fc00ff)' },
-    { id: 4, title: 'ECHOES', year: '2023', color: 'linear-gradient(45deg, #f857a6, #ff5858)' },
+    { id: 1, title: 'Rythm that I like', year: '2025', color: 'linear-gradient(45deg, #ff00cc, #333399)' },
+    { id: 2, title: 'Tequiero Olvier', year: '2024', color: 'linear-gradient(45deg, #000000, #434343)' },
+    { id: 3, title: 'Meet Me Halfway', year: '2024', color: 'linear-gradient(45deg, #00dbde, #fc00ff)' },
+    { id: 4, title: 'The Last', year: '2023', color: 'linear-gradient(45deg, #f857a6, #ff5858)' },
 ];
 
 const Gallery = () => {

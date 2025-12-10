@@ -10,7 +10,7 @@ const Bio = () => {
                     <div className="bio-img-placeholder"></div>
                 </div>
                 <div className="bio-content">
-                    <h2 className="bio-title">THE ARCHITECT</h2>
+                    <h2 className="bio-title">Z & Ro</h2>
                     <p className="bio-text">
                         ZILCH is more than a name; it's a sonic statement. Emerging from the underground,
                         Zilch blends industrial textures with hypnotic rhythms to create immersive auditory landscapes.

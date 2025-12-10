@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="app">
       <nav className="navbar">
-        <div className="nav-brand">ZILCH</div>
+        <div className="nav-brand">Z&RO</div>
         <div className={`nav-links ${mobileMenuOpen ? 'open' : ''}`}>
           <a href="#tour" onClick={() => setMobileMenuOpen(false)}>TOUR</a>
           <a href="#music" onClick={() => setMobileMenuOpen(false)}>RELEASES</a>
